@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Social App</string>
+    <string name="what_do_you_want_to_talk_about">what_do_you_want_to_talk_about</string>
+    <string name="post">post</string>
+</resources>
